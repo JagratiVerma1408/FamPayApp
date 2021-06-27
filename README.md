@@ -3,7 +3,7 @@
  
  
        This application is developed as a task for FamPay recruitment process.
-       App displays a list of  *Contextual Card*.
+       App displays a list of  Contextual Card.
   
   **MVVM Architecture**
   
